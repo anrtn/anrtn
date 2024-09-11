@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is **Anna Ruitan**.<br>
+
+I'm a **Information System Student** in **Universitas Sam Ratulangi** <br>
+
+Please check my [Linkedin](https://www.linkedin.com/in/anna-ruitan/) account. <br>
+
+Thankyou
 <!--
 **anrtn/anrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
