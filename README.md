@@ -4,7 +4,7 @@ My name is **Anna Ruitan**.<br>
 
 I'm a **Information System Student** in **Universitas Sam Ratulangi** <br>
 
-Please check my [Linkedin](https://www.linkedin.com/in/anna-ruitan/) account. <br>
+Please check my [Linkedin](https://www.linkedin.com/in/anna-ruitan-051049252/) account. <br>
 
 Thankyou
 <p align="left">
