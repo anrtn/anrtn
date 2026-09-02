@@ -2,7 +2,7 @@
 
 My name is **Anna Ruitan**.<br>
 
-I'm a **Information System Student** in **Universitas Sam Ratulangi** <br>
+I'm a **Information System** <br>
 
 Please check my [Linkedin](https://www.linkedin.com/in/anna-ruitan-051049252/) account. <br>
 
